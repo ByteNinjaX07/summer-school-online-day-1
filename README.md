@@ -1,4 +1,4 @@
-HTML Fundamentals Assignment - Documentation
+Documentation
 --------------------------------------------
 
 1. What each HTML element does:
